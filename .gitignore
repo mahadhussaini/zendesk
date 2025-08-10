@@ -37,3 +37,4 @@ Thumbs.db
 
 # If you prefer to commit built assets for Zendesk upload,
 # comment out the app/assets/ ignore rule above.
+.vercel
