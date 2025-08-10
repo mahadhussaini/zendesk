@@ -1,0 +1,39 @@
+# Node
+node_modules/
+
+# Vite / build output
+app/assets/
+dist/
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Testing / coverage
+coverage/
+.jest/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Caches
+.eslintcache
+.parcel-cache/
+.turbo/
+
+# Misc
+*.local
+
+# If you prefer to commit built assets for Zendesk upload,
+# comment out the app/assets/ ignore rule above.
